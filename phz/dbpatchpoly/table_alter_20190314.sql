@@ -1,0 +1,1 @@
+replace into s_game_type(gametype,gameid,title,state,hot) values(4,239,'roulette36',1,190);

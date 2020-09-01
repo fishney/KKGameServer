@@ -1,0 +1,1 @@
+replace into `s_config` (id, k, v, memo) values(29, "luckyliveapiurl", "https://api.luckylivegames.com", "luckyliveapiurl");

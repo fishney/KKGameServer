@@ -1,0 +1,1 @@
+update s_game set robot=NULL where id>=24 and id<=32;

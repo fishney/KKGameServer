@@ -1,0 +1,1 @@
+ALTER TABLE evo_amount_log ADD game_identification int(11) DEFAULT '0' COMMENT '一轮evo游戏的唯一id';

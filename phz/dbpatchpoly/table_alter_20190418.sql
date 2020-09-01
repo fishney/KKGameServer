@@ -1,0 +1,1 @@
+delete from s_game_type where gametype=4 and gameid=235;

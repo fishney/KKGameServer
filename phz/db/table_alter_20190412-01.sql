@@ -1,0 +1,1 @@
+update s_sess set chips = '[{"min":0.01,"max":0.5},{"min":0.02,"max":1},{"min":0.1,"max":10},{"min":1,"max":100}]' where gameid in (24, 25, 26, 27, 28, 29, 30, 31, 32);

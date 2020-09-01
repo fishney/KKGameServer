@@ -1,0 +1,1 @@
+replace into `s_game_type` (gametype, gameid, title, state, hot)  VALUES (6, 242, "918水果机", 1, 130);

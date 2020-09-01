@@ -1,0 +1,2 @@
+delete from s_game_type where gameid in (218,201,221,206,222,214,208,220,209,219);
+INSERT INTO `s_game_type`(gametype,gameid,title,state,hot) select 4,id,title,1,100 from s_game where id in (218,201,221,206,222,214,208,220,209,219);

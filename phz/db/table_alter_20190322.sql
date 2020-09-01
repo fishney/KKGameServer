@@ -1,0 +1,1 @@
+update s_sess set mincoin=0 where mincoin >0;
